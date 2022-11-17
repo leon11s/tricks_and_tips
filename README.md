@@ -4,4 +4,4 @@ Programmers trick and tips. Guides for every programmer.
 
 
 ## Categories
-- [Git](./categories/README.md)
+- [Git](./categories/git/README.md)
