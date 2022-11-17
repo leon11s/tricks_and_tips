@@ -1,2 +1,7 @@
-# tricks_and_tips
-Programmers trick and tips.Guides for every programmer.
+# Tricks, tips, guides for every programmer
+
+Programmers trick and tips. Guides for every programmer.
+
+
+## Categories
+- [Git](./categories/README.md)
