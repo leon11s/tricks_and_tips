@@ -2,6 +2,8 @@
 
 ## Courses
 
+## Learning platforms
+
 ## Books
 
 ## Videos

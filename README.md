@@ -4,6 +4,6 @@ Programmers trick and tips. Guides for every programmer.
 
 
 ## Categories
-- [Git](./categories/git/README.md)
+- [Cybersecurity](./categories/cybersecurity/README.md)
 - [DevOps](./categories/devops/README.md)
-
+- [Git](./categories/git/README.md)
