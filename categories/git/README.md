@@ -4,6 +4,8 @@
 
 ## Books
 
+## Videos
+
 ## Tricks
 
 - **Pull from remote overwriting local changes:**
