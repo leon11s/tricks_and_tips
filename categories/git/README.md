@@ -5,6 +5,14 @@
 ## Books
 
 ## Videos
+- [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE): A quick overview about Git, explaining core principles.
+- [Git vs. GitHub: What's the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU): A tutorial focusing on explaining the differences between Git and GitHub.
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk): Learn about how to work with Git, use commands like add, commit, push, pull, create branches, fork projects, etc.
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg): You'll go beyond the basic commands and look at some of the more advanced concepts and tools to make you more productive and confident with Git.
+
+## Repositories
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#ignore-whitespace): A collection of cool hidden and not so hidden features of Git and GitHub.
+
 
 ## Tricks
 
