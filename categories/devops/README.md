@@ -6,6 +6,11 @@
 
 ## Books
 
+## Repositories
+- [Roadmap for everyone who wants DevSecOps](https://github.com/hahwul/DevSecOps)
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
+
 ## Videos
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM): By the end of this video, you will understand what DevOps is and have clarified all your questions about it.
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY): The course covers the essential prerequisite knowledge for your journey into the Cloud and DevOps world.
