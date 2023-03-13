@@ -1,8 +1,7 @@
-# DeFooDe - Developers for developers 
+# Developers resources 
 
-We make developers' life easier. By developers :) Programmers trick and tips. Guides for every programmer.
+Programmers trick and tips. Guides for every programmer.
 
-Twitter: https://twitter.com/defoode_
 
 ## Categories
 - [Cybersecurity](./categories/cybersecurity/README.md)
