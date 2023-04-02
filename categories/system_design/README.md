@@ -88,9 +88,13 @@
 
 ## Learning platforms
 
+## Blogs
+- [Simplify Your Microservices Architecture With a Data API](https://dzone.com/articles/simplify-your-microservices-architecture-with-a-da)
+
 ## Books
 
 ## Videos
+- [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o&t=2s): This course is a detailed introduction to system design for software developers and engineers.
 
 ## Tricks
 

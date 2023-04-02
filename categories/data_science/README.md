@@ -41,7 +41,13 @@
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 - [Machine Learning Notebooks](https://github.com/dair-ai/ML-Notebooks)
 
+## Blogs
+- [Confused by Multi-Index in Pandas? 9 Essential Operations to Know](https://towardsdatascience.com/confused-by-multi-index-in-pandas-9-essential-operations-to-know-e6aec29ee6d8)
+
 ## Books
+
+## Tools
+- [PyGWalker](https://github.com/Kanaries/pygwalker): PyGWalker can simplify your Jupyter Notebook data analysis and data visualization workflow, by turning your pandas dataframe (and polars dataframe) into a Tableau-style User Interface for visual exploration.
 
 ## Videos
 

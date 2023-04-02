@@ -8,6 +8,8 @@
 
 ## Learning platforms
 
+## Blogs
+
 ## Repositories
 
 ## Books
